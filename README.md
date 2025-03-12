@@ -1,6 +1,5 @@
 
 
-<title> ITE103-HTML&CSS </title>
 
 
 <body>
